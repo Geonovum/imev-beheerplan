@@ -1,13 +1,12 @@
 # Operationeel {#083B8D00}
-Initiatie, wensen en eisen, ontwikkeling, uitvoering, documentatie en hulpmiddelen zijn onderdeel van de operationele activiteiten voor het beheer van de standaarden.
+<b>Initiatie, wensen en eisen, ontwikkeling, uitvoering, documentatie en hulpmiddelen zijn onderdeel van de operationele activiteiten voor het beheer van de standaarden.</b>
 ## Initiatie {#741CFF7D}
 Identificatie van nieuwe ideeën voor bijvoorbeeld een nieuwe specificatie, werkafspraak, documentatie of voorbeelden is een taak van het beheerteam. De signaalfunctie van het beheerteam is hier belangrijk. Deze signaalfunctie kan alleen werken door het voeren van de IMEV helpdesk, samenwerking en goed contact met de opdrachtgever, softwareleveranciers, REV beheerders en andere gebruikers van de standaard. Na identificatie van een vraagstuk kan dit leiden tot nieuwe implementatieondersteuning of wijzigingsverzoeken voor de doorontwikkeling van het IMEV. Voorbeelden van initiatie voor het IMEV zijn: 
-<ul><li>Nieuwe milieubelastende activiteiten in de Omgevingswet- en regelgeving (met name het Bkl); </li>
-<li>Doorontwikkeling en beheer van testbestanden en voorbeeldbestanden in samenwerking met Rijkswaterstaat; </li>
+<ul><li>Nieuwe milieubelastende activiteiten in de Omgevingswet- en regelgeving (met name het Bkl);</li>
+<li>Doorontwikkeling en beheer van testbestanden en voorbeeldbestanden in samenwerking met Rijkswaterstaat;</li>
 <li>Doorontwikkeling van de OGC API standaarden en de invloed op het IMEV, de API specificaties van het IMEV en de REV-API;</li>
 <li>De datakoppeling met het knooppunt van het DSO en de Atlas Leefomgeving.</li>
 </ul>
-<br/>
 <br/>
 Het beheerteam beheert de lijst van wensen en eisen voor het IMEV in de publieke IMEV werkomgeving op <a href='https://github.com/Geonovum/imev-werkomgeving/issues' target='_blank'>GitHub</a> en initieert in overleg met de opdrachtgever een wijzigingsproces van de standaard. Het wijzigingsproces volgt de afspraken zoals deze zijn vastgelegd in het <a href='https://docs.geostandaarden.nl/imev/IMEV-wijzigingsprotocol/' target='_blank'>wijzigingsprotocol</a>. 
 In het wijzigingsprotocol staan de sturende principes achter het wijzigingsproces voor het IMEV: de manier waarop wijzigingen in de betreffende standaard plaatsvinden. Met het protocol wordt elke wijziging van de standaard een voorspelbaar proces voor de ketenpartners. De IMEV Adviesgroep heeft een belangrijke rol in het wijzigingsproces: zij stuurt op verbinding en samenhang, controleert het wijzigingsproces en voorziet het wijzigingsvoorstel van advies voor het al dan niet doorvoeren van de wijzigingen en opleveren van een nieuwe versie van IMEV. De opdrachtgever besluit of de wijzigingen worden doorgevoerd op het IMEV.
@@ -18,29 +17,29 @@ In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzi
 <li>continuïteit aan de standaard;</li>
 <li>een eenduidige aanpak.</li>
 </ul>
+<br/>
 Het IMEV-beheerteam initieert in overleg met de opdrachtgever en ketenpartners een wijzigingsproces van de standaard.
+
 ## Wensen en eisen {#598C31A3}
 Belanghebbenden, gebruikers van de standaard, kunnen wijzigingsverzoeken variërend van wensen tot aanpassing van en fouten in de standaard, per mail aan de <a href='mailto:imev@geonovum.nl' target='_blank'>IMEV helpdesk</a> indienen bij Geonovum. Het IMEV-beheerteam onderzoekt of de melding inderdaad een wijzigingsverzoek is of een vraag over de standaard. Wanneer de vraag een wijzigingsverzoek blijkt te zijn plaatsen wij deze op de lijst van wijzigingsverzoeken op onze publieke IMEV werkomgeving op <a href='https://github.com/Geonovum/imev-werkomgeving/issues' target='_blank'>GitHub</a>. Per wijzigingsverzoek leggen we vast:
 <ul><li>aanleiding van het wijzigingsverzoek;</li>
 <li>voorgestelde wijziging;</li>
 <li>impactanalyse;</li>
 <li>prioriteit;</li>
-<li>toelichting. </li>
+<li>toelichting.</li>
 </ul>
 De issues worden van labels voorzien die ook in het wijzigingsvoorstel terugkomen, bijvoorbeeld nieuwe MBA, bug of conformiteit. Zo is te volgen of een melding onderzocht wordt, of bijvoorbeeld op korte termijn meegenomen in een wijzigingsvoorstel. Het doel is transparantie in het beheer en de doorontwikkeling van de standaard. 
 <br/>
 <br/>
-<figure><img src='media/image4.jpeg' alt='Betrokkenen bij het beheer en de doorontwikkeling het IMEV ' style='width: 100%;'></img>
-<figcaption><img src='media/image4.jpeg' alt='Betrokkenen bij het beheer en de doorontwikkeling het IMEV ' style='width: 100%;'></img>
-Figuur 4 – Betrokkenen bij het beheer en de doorontwikkeling het IMEV </figcaption></figure>
-
+<figure><img src='media/image4.jpeg' alt='Betrokkenen bij het beheer en de doorontwikkeling het IMEV' style='width: 100%;'></img>
+<figcaption><img src='media/image4.jpeg' alt='Betrokkenen bij het beheer en de doorontwikkeling het IMEV' style='width: 100%;'></figcaption></figure>
  
 ## Ontwikkeling {#6DADA5C8}
 Sinds ingebruikname van het REV op 1 januari 2023 en het inwerkingtreden van de Omgevingswet is het IMEV in gebruik voor het aanleveren van dat aan het REV. Het IMEV bevindt zich in de fase ‘volwaardige toepassing’ (zie <a href='#d4e2263'>Figuur 5</a>). 
 <br/>
 <br/>
 <figure><img src='media/image5.png' alt='Levensfases van een standaard volgens BOMOS' style='width: 100%;'></img>
-<figcaption>Figuur 5 - Levensfases van een standaard volgens <a href='https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/' target='_blank'>BOMOS</a></figcaption></figure>
+<figcaption>Levensfases van een standaard volgens <a href='https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/' target='_blank'>BOMOS</a></figcaption></figure>
 
 <br/>
 <br/>
@@ -48,14 +47,13 @@ Afspraken over de doorontwikkeling van het informatiemodel zijn vastgelegd in he
 <br/>
 <br/>
 <figure><img src='media/image6.png' alt='Fasen wijzigingsproces IMEV' style='width: 41.731281101724335%;'></img>
-<figcaption>Figuur 6 - Fasen wijzigingsproces</figcaption></figure>
+<figcaption>Fasen wijzigingsproces</figcaption></figure>
 
 ## Uitvoering {#32D5C642}
 Voor de uitvoering van het beheer van het informatiemodel externe veiligheid, zet Geonovum adviseurs geo-standaarden, een informatiemodelleur en communicatieadviseurs in. Onderling verdelen zij de werkzaamheden. De leidraad daarbij is: 
 <ul><li>Het Informatiemodel is voor de mens- en machineleesbaar, testbaar, implementeerbaar, is duidelijk, kent geen inhoudelijk fouten en is betrouwbaar;</li>
 <li>Toetsing doen wij samen met gebruikers- en expertgroepen.</li>
 </ul>
-<br/>
 <br/>
 Wij gebruiken hierbij de volgende hulpmiddelen en tooling. 
 De <a href='https://www.geonovum.nl/' target='_blank'>Geonovum website</a> is de centrale toegang om in contact te komen met Geonovum en informatie in te winnen over ons werk: Geonovum verbindt, verkent en verankert. Dit betekent dat nieuwe opdrachten, nieuwe werkzaamheden, nieuwe thema’s via de Geonovum website worden ontsloten en alleen bij hoge uitzondering en een degelijke onderbouwing er een nieuwe separate website wordt ontwikkeld. 
@@ -79,6 +77,8 @@ De volgende tooling zetten wij voor de ontwikkeling en het beheer van de product
 <li><b>Subversion</b>: technische beheeromgeving en versiebeheer van de UML modellen op svn.geostandaarden.nl;</li>
 <li><b>Visual Studio Code: </b>Editor voor de markdown bestanden. Er blijkt dat verschillend parallel gebruik van verschillende editors kunnen leiden tot verschillen in uitkomst in ReSpec. ReSpec vereist GitHub Flavoured Markdown.</li>
 </ul>
+<br/>
+
 ## Documentatie {#79A4FC48}
 De volgende type documentatie worden door Geonovum gebruikt bij de ontwikkeling en het beheer van standaarden. 
 <ul><li><b>Norm: </b>een norm is bij een officieel standaardisatie instituut ondergebracht en bevat bindende afspraken. Naast het gebruik van normen is NEN 3610 de enige norm waar Geonovum een inhoudelijke verantwoordelijkheid heeft. Het formele beheer en beslissingen worden genomen in de NEN normcommissie 351 240 waar Geonovum de voorzitter van is. NEN is een normalisatie instituut. NEN is net als Geonovum een stichting en kan daarmee geen juridische status toekennen aan normen. Het  verwijst vooral naar de status die de NEN heeft vanuit de overheid en in het werken vanuit lidstaten.  </li>

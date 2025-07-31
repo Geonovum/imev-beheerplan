@@ -1,5 +1,5 @@
 # Tactiek {#5AE88FF8}
-Community, architectuur, rechtenbeleid, adoptie en erkenning, kwaliteitsbeleid en benchmarking zijn de tactische activiteiten voor het beheer van de standaarden.
+<b>Community, architectuur, rechtenbeleid, adoptie en erkenning, kwaliteitsbeleid en benchmarking zijn de tactische activiteiten voor het beheer van de standaarden.</b>
 ## Community {#2C5ABC1A}
 Stichting Geonovum heeft een onafhankelijke positie als beheerder van geo-standaarden. Het ontwikkelen en beheren van standaarden doen wij open en transparant. Betrokkenheid van de gemeenschap bij de verdere doorontwikkeling van de standaarden is voor het gebruik en het draagvlak ervan van groot belang. De standaarden gelden voor en worden gebruikt door publieke en private organisaties en bijvoorbeeld kennisinstellingen. Zij vormen samen de community. Alle (overheids)stakeholders, en commerciële stakeholders, hebben inspraak in het beheer en (door)ontwikkeling van het IMEV in vorm van bijvoorbeeld leveranciers- en bronhoudersoverleggen maar zij zijn niet beslissingsbevoegd (zie <a href='#d4e974'>Figuur 2</a>). Aan deze inspraak zijn geen kosten verbonden.
 <br/>
@@ -8,25 +8,26 @@ Er zijn verschillende gremia die het EV netwerk bijeenbrengen. De gremia zijn me
 <br/>
 <br/>
 Geonovum informeert en betrekt de community via haar website en via nieuwsbrieven van de beheerder van REV en Geonovum zelf. Vanuit de community worden (al dan niet ad hoc) werkgroepen gevormd voor het klankborden over ontvangen wijzigingsverzoeken en het ontwikkelen van oplossingen op het moment dat dit nodig is. De vergaderdata van deze werkgroepen worden gepubliceerd op de <a href='https://www.geonovum.nl/agenda' target='_blank'>Geonovum website</a> en de <a href='https://www.registerexterneveiligheid.nl/agenda' target='_blank'>REV website</a>. Inschrijven voor bijeenkomsten over het IMEV is mogelijk via imev@geonovum.nl.
+
 ## Architectuur {#30830BA9}
 Onze standaarden en informatiemodellen ontwikkelen wij niet in splendid isolation; ze moeten opgehangen zijn aan en/of binnen nationale en internationale standaarden. Door onze producten op te hangen aan, of in te passen in nationale en internationale standaarden, architecturen en infrastructuren, wordt de uitwisseling van gegevens gemakkelijker en hoeft niet iedere keer het wiel opnieuw te worden uitgevonden. 
 <br/>
 <br/>
 Het IMEV wordt permanent afgestemd met de volgende standaarden: 
-<ul><li>Metamodel voor informatiemodellering – MIM; </li>
-<li>Standaard voor beschrijven van begrippen - NL-SBB</li>
+<ul><li>Metamodel voor informatiemodellering – MIM;</li>
+<li>Standaard voor beschrijven van begrippen - NL-SBB;</li>
 <li>INSPIRE en Europese richtlijnen (waaronder Seveso);</li>
 <li>Basismodel voor geo-informatie - NEN3610 (zie <a href='#d4e1428'>Figuur 3</a>);</li>
-<li>Internationale OGC API standaarden</li>
+<li>Internationale OGC API standaarden;</li>
 <li>API standaarden op de lijst open standaarden van het Forum Standaardisatie;</li>
 <li>Informatiemodel Omgevingswet – IMOW;</li>
-<li>Informatiemodel Geluid.  </li>
+<li>Informatiemodel Geluid.</li>
 </ul>
 <br/>
 <br/>
 De internationale API standaarden zijn volop in ontwikkeling en zullen effect hebben op de IMEV API specificaties. Ook de ontwikkeling van de standaarden voor het Digitaal Stelsel VTH, waaronder het CIM VTH Flo, zullen op termijn invloed kunnen hebben op de doorontwikkeling van het IMEV. 
 <figure><img src='media/image3.jpeg' alt='samenhang standaarden in de NEN3610 piramide vormgegeven' style='width: 58.88373228893201%;'></img>
-<figcaption>Figuur 3 – IMEV als domeinmodel onder het nationale NEN3610 Basismodel voor geo-informatie </figcaption></figure>
+<figcaption>IMEV als domeinmodel onder het nationale NEN3610 Basismodel voor geo-informatie</figcaption></figure>
 
 ## Rechtenbeleid {#3F9222D8}
 Het onderwerp rechtenbeleid uit BOMOS vertaalt zich naar gebruiksvoorwaarden van de producten van de standaarden. Niet alleen voor de documentatie maar ook voor de technische bestanden. 
@@ -37,8 +38,10 @@ Geonovum hanteert <a href='https://creativecommons.nl/' target='_blank'>Creative
 <br/>
 <br/>
 Geonovum zorgt ervoor dat de documentatie van onze standaarden toegankelijk is conform de WCAG richtlijnen. Hiervoor gebruiken wij html-formaat conform ReSpec. De Nederlandse set van ReSpec afspraken wordt door Logius beheerd. 
+
 ## Adoptie en erkenning {#7C0F229A}
 Het gebruik van de standaarden is niet vanzelfsprekend. Voor de adoptie en erkenning van het IMEV is het van belang dat de standaarden goed aansluiten bij de werkpraktijk. De samenwerking met gebruikers- en expertgroepen van het IMEV en het REV is daarom cruciaal. Om signalen vanuit de dagelijkse praktijk vroeg op te kunnen vangen, neemt Geonovum ook deel aan bij de bronhoudersoverleggen. Via de REV-nieuwsbrief houden wij het netwerk op de hoogte van ontwikkelingen en kunnen we antwoorden op veel gestelde vragen proactief delen. 
+
 ## Kwaliteitsbeleid en benchmarking {#44553739}
 Kwaliteit is de basis voor een bruikbare standaard. Het gebruik, de bruikbaarheid en de gebruikers staan centraal. De standaard is een middel in het werkproces van overheden die hen beter moet laten presteren. Periodiek overleg met de IMEV Adviesgroep, overleggen met softwareleveranciers, opdrachtgever, bevoegde gezagen c.q. bronhouders, andere gebruikers van de standaard, belanghebbenden en contacten via de helpdesk zijn instrumenten die ons helpen de kwaliteit van het IMEV te bewaken. De technische kwaliteit van de toepassing van de standaard is te toetsen met behulp van validatieregels. Voor het wijzigen van de standaard hanteren we een vaste werkwijze dat is vastgelegd in het <a href='https://docs.geostandaarden.nl/imev/IMEV-wijzigingsprotocol/' target='_blank'>Wijzigingsprotocol Informatiemodel Externe Veiligheid</a>. 
 <br/>

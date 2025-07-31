@@ -1,5 +1,5 @@
 # Implementatieondersteuning {#790C686D}
-Helpdesk, opleiding van gebruikers, module ontwikkeling, pilots, validatie en certificatie zijn de implementatieondersteuning activiteiten voor het beheer van de standaarden.
+<b>Helpdesk, opleiding van gebruikers, module ontwikkeling, pilots, validatie en certificatie zijn de implementatieondersteuning activiteiten voor het beheer van de standaarden.</b>
 ## Helpdesk  {#19CC20AC}
 De helpdesk heeft voor Geonovum als beheerder van standaarden een belangrijke signaal functie. Doordat de mensen werken met de standaard via software waar de standaard in is geïmplementeerd, heeft men vragen. Voor antwoord op deze vragen is er documentatie maar kan ook gebruik worden gemaakt van de helpdesk. Hierdoor kunnen problemen met de standaard aan het licht komen, maar ook problemen in de keten of zelfs in wet- en regelgeving. Ook kan duidelijk worden of aangeboden documentatie of informatie via de website beter kan.
 <br/>

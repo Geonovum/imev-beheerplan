@@ -16,13 +16,13 @@ In het <a href='https://docs.geostandaarden.nl/imev/imev/' target='_blank'>infor
 <li>en hoe deze gegevens in het register moeten worden vastgelegd.</li>
 </ul>
 <br/>
-<br/>
 De nadruk van het informatiemodel ligt op het beschrijven van de gegevens die noodzakelijk zijn om de plaatsgebonden risicocontouren en aandachtsgebieden uit te wisselen die horen bij operationeel uitgevoerde externe veiligheidsactiviteiten. 
-<i>Welke</i> gegevens bevoegde gezagen ten aanzien van de externe veiligheid moeten verzamelen, staat  beschreven in artikel 11.2 tot en met 11.7 van het <a href='https://wetten.overheid.nl/BWBR0041313' target='_blank'>Besluit kwaliteit leefomgeving</a> (Bkl). In bijlage VII-X van het Bkl  zijn de kenmerken over opslag, productie, gebruik en vervoer van gevaarlijke stoffen en windturbines de milieubelastende activiteiten met vastgestelde afstanden opgenomen. Het informatiemodel beschrijft <i>hoe</i> deze gegevens in het register moeten worden vastgelegd. Het informatiemodel externe veiligheid is daarmee de basis voor software waarmee de bevoegde gezagen hun gegevens aan het register aanleveren. Het <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid' target='_blank'>informatiemodel externe veiligheid</a><u> </u>wordt in opdracht van het Ministerie van Infrastructuur en Waterstaat beheerd door <a href='https://www.geonovum.nl/over-geonovum/wie-wij-zijn' target='_blank'>Geonovum</a>. Met dit beheerplan geven inzicht wat het beheer is en hoe wij dat uitvoeren. 
+<i>Welke</i> gegevens bevoegde gezagen ten aanzien van de externe veiligheid moeten verzamelen, staat  beschreven in artikel 11.2 tot en met 11.7 van het <a href='https://wetten.overheid.nl/BWBR0041313' target='_blank'>Besluit kwaliteit leefomgeving</a> (Bkl). In bijlage VII-X van het Bkl  zijn de kenmerken over opslag, productie, gebruik en vervoer van gevaarlijke stoffen en windturbines de milieubelastende activiteiten met vastgestelde afstanden opgenomen. Het informatiemodel beschrijft <i>hoe</i> deze gegevens in het register moeten worden vastgelegd. Het informatiemodel externe veiligheid is daarmee de basis voor software waarmee de bevoegde gezagen hun gegevens aan het register aanleveren. Het <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid' target='_blank'>informatiemodel externe veiligheid</a><u> </u>wordt in opdracht van het Ministerie van Infrastructuur en Waterstaat beheerd door <a href='https://www.geonovum.nl/over-geonovum/wie-wij-zijn' target='_blank'>Geonovum</a>. Met dit beheerplan geeft Geonovum inzicht wat het beheer is en hoe wij dat uitvoeren. 
 <br/>
 <br/>
 De data uit het <a href='https://www.registerexterneveiligheid.nl/' target='_blank'>Register Externe Veiligheidsrisico's</a> is te bekijken via de <a href='https://www.atlasleefomgeving.nl/thema/veiligheid' target='_blank'>Atlas Leefomgeving</a>. Burgers en bedrijven kunnen zo een beeld krijgen van de risico's in hun leefomgeving. Het REV is ook van belang voor het <a href='https://iplo.nl/thema/externe-veiligheid/register-externe-veiligheidsrisico/' target='_blank'>bevoegd gezag</a>. Via het REV kunnen verschillende overheden de door hen ingewonnen gegevens over externe veiligheidsrisico’s gemakkelijk delen. De overheid heeft deze gegevens nodig voor de oordeelsvorming bij het nemen van besluiten over omgevingsvergunningen en voor omgevingsplannen. 
 Het REV is een landelijk register en vervangt sinds 1 januari 2023 het <a href='https://www.infomil.nl/onderwerpen/veiligheid/register-en/' target='_blank'>register risicosituaties gevaarlijke stoffen</a> (RRGS). Het REV is de basis voor alle data rond externe veiligheidsrisico’s. Het beheer van dit register valt onder de verantwoordelijkheid van het Ministerie van Infrastructuur en Waterstaat (artikel 11.8 van het <a href='https://iplo.nl/thema/externe-veiligheid/register-externe-veiligheidsrisico' target='_blank'>Besluit kwaliteit leefomgeving</a> (Bkl)). Het beheer van het REV wordt uitgevoerd door Rijkswaterstaat (WVL). 
+
 ## Ontwikkelen en beheren van standaarden  {#34787AAB}
 Sinds 2021 beheert Geonovum het Informatiemodel Externe Veiligheid (IMEV). Wij doen dat in opdracht van het Ministerie van Infrastructuur en Waterstaat (IenW). Geonovum beheert ook de standaarden voor de aanpalende thema’s in de Omgevingswet, zoals Informatiemodel Geluid in opdracht van RIVM en de Toepassingsprofielen voor Omgevingsdocumenten (TPOD) in opdracht van het Ministerie voor Volkshuisvesting en Ruimtelijke Ordening (VRO). Daarnaast is Geonovum betrokken bij de aansluiting van informatiebronnen (zoals het REV) op het Digitaal Stelsel Omgevingswet (DSO-LV). Tevens werken wij in opdracht van het Ministerie van Infrastructuur en Waterstaat aan de standaarden voor het Digitaal Stelsel VTH. In het kader van de <a href='https://www.geonovum.nl/themas/europese-datastrategie' target='_blank'>Europese datastrategie</a> zijn wij betrokken bij de ontwikkeling van dataspaces, met name die voor de Green Deal.
 <br/>
@@ -34,14 +34,14 @@ De <a href='https://organisaties.overheid.nl/27912339/Stichting_Geonovum' target
 Bij de ontwikkeling van standaarden volgen wij de FAIR principes: geodata moeten Findable (vindbaar) zijn, Accessible (toegankelijk), Interoperable (interoperabel) en Reusable (herbruikbaar). 
 Het beheer van onze standaarden geven wij gestalte en voeren wij uit in de context van de standaarden, architectuur en voorzieningen en de gebruikers in de keten. Leidraad in bij het (door)ontwikkelen en beheren van standaarden is het ‘Beheer en Ontwikkel Model Open Standaarden’: <a href='https://www.logius.nl/diensten/bomos' target='_blank'>BOMOS</a> (zie <a href='#d4e628'>Figuur 1</a>). Geonovum past in haar werk de BOMOS en FAIR-principes toe. Dit draagt bij aan de voorspelbaarheid van onze werkwijze en onze resultaten. We zijn bereikbaar voor alle gebruikers van onze standaarden: we sluiten niemand uit en we hanteren het ‘no wrong door’-uitgangspunt bij de <a href='#19CC20AC'>helpdesks</a>. 
 <figure><img src='media/image1.png' alt='In de figuur is het Beheer- en Ontwikkelmodel weergegeven: een gelaagde structuur van onderwerpen die nodig zijn voor het ontwikkelen en beheren van een open standaard.' style='width: 89.67322060092565%;'></img>
-<figcaption>Figuur 1 - De structuur van het Beheer- en Ontwikkelmodel voor Open Standaarden</figcaption></figure>
+<figcaption>De structuur van het Beheer- en Ontwikkelmodel voor Open Standaarden</figcaption></figure>
 
 ## Leeswijzer {#6981FF72}
 In dit beheerplan geven wij per BOMOS hoofdactiviteit welke activiteiten we uitvoeren voor het beheer de doorontwikkeling van het Informatiemodel Externe Veiligheid. Achtereenvolgens komen in dit beheerplan aan de orde: 
-<ul><li>Hoofdstuk <a href='#491B6E78'>3</a> - strategie, </li>
-<li>Hoofdstuk <a href='#5AE88FF8'>4</a> - tactiek, </li>
-<li>Hoofdstuk <a href='#083B8D00'>5</a> - operationeel, </li>
-<li>Hoofdstuk <a href='#790C686D'>6</a> - implementatieondersteuning, </li>
-<li>Hoofdstuk <a href='#485DFB58'>7</a> – communicatie, </li>
-<li>Hoofdstuk <a href='#56B1B14E'>8</a>– IMEV producten. </li>
+<ul><li><a href='#491B6E78'>Hoofdstuk 2</a> - strategie, </li>
+<li><a href='#5AE88FF8'>Hoofdstuk 3</a> - tactiek, </li>
+<li><a href='#083B8D00'>Hoofdstuk 4</a> - operationeel, </li>
+<li><a href='#790C686D'>Hoofdstuk 5</a> - implementatieondersteuning, </li>
+<li><a href='#485DFB58'>Hoofdstuk 6</a> – communicatie, </li>
+<li><a href='#56B1B14E'>Hoofdstuk 7</a>– IMEV producten. </li>
 </ul>
