@@ -32,7 +32,7 @@ De issues worden van labels voorzien die ook in het wijzigingsvoorstel terugkome
 <br/>
 <br/>
 <figure><img src='media/image4.jpeg' alt='Betrokkenen bij het beheer en de doorontwikkeling het IMEV' style='width: 100%;'></img>
-<figcaption><img src='media/image4.jpeg' alt='Betrokkenen bij het beheer en de doorontwikkeling het IMEV' style='width: 100%;'></figcaption></figure>
+<figcaption>Betrokkenen bij het beheer en de doorontwikkeling het IMEV</figcaption></figure>
  
 ## Ontwikkeling {#6DADA5C8}
 Sinds ingebruikname van het REV op 1 januari 2023 en het inwerkingtreden van de Omgevingswet is het IMEV in gebruik voor het aanleveren van dat aan het REV. Het IMEV bevindt zich in de fase ‘volwaardige toepassing’ (zie <a href='#d4e2263'>Figuur 5</a>). 

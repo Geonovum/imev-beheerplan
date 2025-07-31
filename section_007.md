@@ -22,10 +22,12 @@ De wetgever kan aanvullende eisen stellen aan publicatie en beschikbaarstelling 
 
 ## Promotie {#4D64FC74}
 Is een (nieuwe versie van een) standaard eenmaal vastgesteld, dan kan deze in gebruik worden genomen en gaat het IMEV-beheerteam over tot implementatieondersteuning (zie de activiteiten in hoofdstuk <a href='#790C686D'>6</a>). De belangrijkste communicatiefunctie bij het gebruik van het IMEV is promotie van de standaard. Door de juiste partijen aan tafel te hebben en door open te communiceren over wat er in de werkgroepen gebeurt, werken wij van meet af aan de acceptatie van de standaard door het werkveld. Om de invoering van onze standaarden tot een succes te maken is onze helpdesk cruciaal. Door mensen kundig en tijdig te woord te staan, voorkomen wij ergernis en houden wij de dialoog met het werkveld open. Ter promotie van het IMEV werken wij samen met Rijkswaterstaat bij bijeenkomsten (online en fysiek) en de REV nieuwsbrief. Voor (visuele) communicatie dragen communicatieadviseurs bij aan het werk van het IMEV-beheerteam. We werken samen met het ministerie van IenW, Rijkswaterstaat, VNG, ODNL en IPO in het REV-communicatieoverleg. 
+
 ## Escalatie- en klachtenafhandeling {#4BC97160}
 We doorlopen een escalatieprocedure als er een wijziging noodzakelijk is die niet in het reguliere wijzigingsproces van IMEV doorgevoerd <i>kan</i> worden, omdat dit te lang duurt. Een uitputtende lijst met situaties en criteria wanneer dit van toepassing is, valt op voorhand niet te geven. Maar voor de beeldvorming: het gaat om situaties waarbij het niet doorvoeren van een bepaalde noodzakelijke wijziging leidt tot onaanvaardbare risico's voor de uitvoeringspraktijk of het onmogelijk uitvoeren (vanwege bijvoorbeeld tegenstrijdige wetten) van werkzaamheden.
 De escalatieprocedure wordt niet gebruikt om reguliere wijzigingen sneller door te kunnen voeren; daarvoor is het <a href='https://docs.geostandaarden.nl/imev/IMEV-wijzigingsprotocol/' target='_blank'>IMEV wijzigingsprotocol</a>. 
-## Sturende principes bij escalatie {#2539E21D}
+
+### Sturende principes bij escalatie {#2539E21D}
 Er wordt geen vast proces gegeven om de escalatieprocedure te doorlopen, omdat verschillende situaties wellicht tot een verschillende wijze van handelen moeten leiden. In plaats daarvan zijn onderstaande sturende principes leidend om verantwoordelijkheden te duiden.
 <br/>
 <br/>
@@ -37,7 +39,7 @@ Er wordt geen vast proces gegeven om de escalatieprocedure te doorlopen, omdat v
 </ul>
 <br/>
 
-## Klachtenafhandeling {#380B400B}
+### Klachtenafhandeling {#380B400B}
 Het garanderen van het serieus nemen van klachten kan alleen, door deze volgens een zorgvuldige procedure te behandelen. Klachten kunnen ook beschouwd worden als verbetersuggestie. We onderscheiden daarom twee verschillende type klachten met betrekking tot de standaarden:
 <ul><li>Klachten over de toepassingsmogelijkheid van de standaard;</li>
 <li>Klachten over het beheer van de standaard.</li>
