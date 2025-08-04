@@ -7,12 +7,12 @@ Dit document wordt bijgewerkt op basis van ontwikkelingen rond het beheer van he
 <col id='col3' style='width: 14.772332290580465%;'>
 <col id='col4' style='width: 54.072529255011005%;'>
 </colgroup>
-<tbody><tr><td class='left' style='border-top: 0.5pt solid #C0C2C4; border-left: 0.5pt solid #C0C2C4; border-bottom: 0.5pt solid #C0C2C4; border-right: 0.5pt solid #C0C2C4;'><p id='2BB7218D'><b>Versie</b></p></td>
+<thead><tr><td class='left' style='border-top: 0.5pt solid #C0C2C4; border-left: 0.5pt solid #C0C2C4; border-bottom: 0.5pt solid #C0C2C4; border-right: 0.5pt solid #C0C2C4;'><p id='2BB7218D'><b>Versie</b></p></td>
 <td class='left' style='border-top: 0.5pt solid #C0C2C4; border-left: 0.5pt solid #C0C2C4; border-bottom: 0.5pt solid #C0C2C4; border-right: 0.5pt solid #C0C2C4;'><p id='2B8EDE10'><b>Datum</b></p></td>
 <td class='left' style='border-top: 0.5pt solid #C0C2C4; border-left: 0.5pt solid #C0C2C4; border-bottom: 0.5pt solid #C0C2C4; border-right: 0.5pt solid #C0C2C4;'><p id='22E9DC5D'><b>Status</b></p></td>
 <td class='left' style='border-top: 0.5pt solid #C0C2C4; border-left: 0.5pt solid #C0C2C4; border-bottom: 0.5pt solid #C0C2C4; border-right: 0.5pt solid #C0C2C4;'><p id='00B79961'><b>Aanpassing</b></p></td>
-</tr>
-<tr><td class='left' style='border-top: 0.5pt solid #C0C2C4; border-left: 0.5pt solid #C0C2C4; border-bottom: 0.5pt solid #C0C2C4; border-right: 0.5pt solid #C0C2C4;'><p id='43D756B8'>1.0</p></td>
+</tr></thead>
+<tbody><tr><td class='left' style='border-top: 0.5pt solid #C0C2C4; border-left: 0.5pt solid #C0C2C4; border-bottom: 0.5pt solid #C0C2C4; border-right: 0.5pt solid #C0C2C4;'><p id='43D756B8'>1.0</p></td>
 <td class='left' style='border-top: 0.5pt solid #C0C2C4; border-left: 0.5pt solid #C0C2C4; border-bottom: 0.5pt solid #C0C2C4; border-right: 0.5pt solid #C0C2C4;'><p id='3726B6C9'>November 2023</p></td>
 <td class='left' style='border-top: 0.5pt solid #C0C2C4; border-left: 0.5pt solid #C0C2C4; border-bottom: 0.5pt solid #C0C2C4; border-right: 0.5pt solid #C0C2C4;'><p id='633F0865'>Definitief</p></td>
 <td class='left' style='border-top: 0.5pt solid #C0C2C4; border-left: 0.5pt solid #C0C2C4; border-bottom: 0.5pt solid #C0C2C4; border-right: 0.5pt solid #C0C2C4;'><p id='0432008F'>Oplevering</p></td>
