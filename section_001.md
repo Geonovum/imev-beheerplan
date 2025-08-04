@@ -1,5 +1,4 @@
 # Versiebeheer {#47B5C444}
-<b>Versiebeheer</b>
 Dit document wordt bijgewerkt op basis van ontwikkelingen rond het beheer van het Informatiemodel Externe Veiligheid. In onderstaand overzicht houden wij de status van verschillende versies van dit document bij. Zo ziet u altijd wanneer de laatste versie is verschenen. 
 <table style='width: 100%;'><caption></caption>
 <colgroup><col id='col1' style='width: 9.801876955161628%;'>
