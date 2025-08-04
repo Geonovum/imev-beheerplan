@@ -23,7 +23,7 @@ Dit is voor Geonovum de basis bij afspraken met andere partijen (opdrachtgevers,
 <colgroup><col id='col1' style='width: 24.643726103580118%;'>
 <col id='col2' style='width: 75.35627389641988%;'>
 </colgroup>
-<tbody><tr><td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #0085C6;'><p id='4AC11851'>Status</p></td>
+<tbody><tr><td class='left'><p id='4AC11851'>Status</p></td>
 <td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #0085C6;'><p id='6CCEC7FF'>Beschrijving activiteiten</p></td>
 </tr>
 <tr><td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='22737BEF'>WACHTEN OP SUPPORT</p></td>
