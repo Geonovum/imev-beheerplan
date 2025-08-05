@@ -33,7 +33,7 @@ De <a href='https://organisaties.overheid.nl/27912339/Stichting_Geonovum' target
 <br/>
 Bij de ontwikkeling van standaarden volgen wij de FAIR principes: geodata moeten Findable (vindbaar) zijn, Accessible (toegankelijk), Interoperable (interoperabel) en Reusable (herbruikbaar). 
 Het beheer van onze standaarden geven wij gestalte en voeren wij uit in de context van de standaarden, architectuur en voorzieningen en de gebruikers in de keten. Leidraad in bij het (door)ontwikkelen en beheren van standaarden is het ‘Beheer en Ontwikkel Model Open Standaarden’: <a href='https://www.logius.nl/diensten/bomos' target='_blank'>BOMOS</a> (zie <a href='#d4e628'>Figuur 1</a>). Geonovum past in haar werk de BOMOS en FAIR-principes toe. Dit draagt bij aan de voorspelbaarheid van onze werkwijze en onze resultaten. We zijn bereikbaar voor alle gebruikers van onze standaarden: we sluiten niemand uit en we hanteren het ‘no wrong door’-uitgangspunt bij de <a href='#19CC20AC'>helpdesks</a>. 
-<figure><img src='media/image1.png' alt='In de figuur is het Beheer- en Ontwikkelmodel weergegeven: een gelaagde structuur van onderwerpen die nodig zijn voor het ontwikkelen en beheren van een open standaard.' style='width: 89.67322060092565%;'></img>
+<figure id="d4e628"><img src='media/image1.png' alt='In de figuur is het Beheer- en Ontwikkelmodel weergegeven: een gelaagde structuur van onderwerpen die nodig zijn voor het ontwikkelen en beheren van een open standaard.' style='width: 89.67322060092565%;'></img>
 <figcaption>De structuur van het Beheer- en Ontwikkelmodel voor Open Standaarden</figcaption></figure>
 
 ## Leeswijzer {#6981FF72}
