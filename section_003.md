@@ -2,9 +2,9 @@
 <b>Governance, visie en financiën zijn de strategische activiteiten voor het beheer van standaarden.</b>
 ## Governance {#3F808C16}
 In opdracht van het Ministerie van Infrastructuur en Waterstaat beheert Geonovum het Informatiemodel Externe Veiligheid. Inhoudelijke en financiële verantwoording legt Geonovum af via kwartaalrapportages. Jaarlijks leggen wij de feedback van de opdrachtgever over ons werk vast door middel van een evaluatie. Door middel van een meerjarige opdracht is de inzet van mensen voor het beheer van het IMEV voor de lange termijn geborgd. 
-Rijkswaterstaat is in opdracht van het ministerie van IenW de beheerder van het Register Externe Veiligheidsrisico’s. Rijkswaterstaat is daardoor de senior user van het informatiemodel. In <a href='#d4e974'>Figuur 2</a> is de organisatiestructuur weergegeven voor het beheer van het IMEV.
+Rijkswaterstaat is in opdracht van het ministerie van IenW de beheerder van het Register Externe Veiligheidsrisico’s. Rijkswaterstaat is daardoor de senior user van het informatiemodel. In <a href='#d4e974'>Figuur 2</a> is de organisatiestructuur weergegeven voor het beheer van het IMEV. In <a href='#tGBMVS'>Tabel 2</a> is de governance van de IMEV beheeropdracht samengevat. 
 <br/>
-<table style='width: 100%;'><caption>Tabel 2 - Governance beheeropdracht IMEV</caption> 
+<table id="tGBMVS" style='width: 100%;'><caption>Tabel 2 - Governance beheeropdracht IMEV</caption> 
 <colgroup><col id='col1' style='width: 39.34312478316179%;'>
 <col id='col2' style='width: 60.656875216838216%;'>
 </colgroup>
@@ -23,7 +23,7 @@ Rijkswaterstaat is in opdracht van het ministerie van IenW de beheerder van het 
 </tbody>
 </table>
 <br/>
-<figure><img src='media/image2.jpeg' alt='Organisatiestructuur IMEV op basis van BOMOS' style='width: 100%;'></img>
+<figure id="d4e974"><img src='media/image2.jpeg' alt='Organisatiestructuur IMEV op basis van BOMOS' style='width: 100%;'></img>
 <figcaption>Organisatiestructuur IMEV op basis van <a href='https://logius-standaarden.github.io/BOMOS-Verdieping/' target='_blank'>BOMOS</a></figcaption></figure>
 
 Er zijn twee gremia die niet onderdeel zijn van de governance maar op tactische niveau wel bijdragen aan de uitvoering van de IMEV beheeropdracht: de IMEV Adviesgroep en het Tripartite overleg (TRIP). 

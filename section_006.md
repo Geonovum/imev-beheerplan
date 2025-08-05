@@ -18,7 +18,7 @@ Voor alle helpdesks bij Geonovum zijn generieke afspraken rondom privacy. Wij re
 <br/>
 Dit is voor Geonovum de basis bij afspraken met andere partijen (opdrachtgevers, ketenpartners) bij vastleggen van afspraken in een Service Level Agreement (SLA). De SLA is doorgaans de basis op voor <a href='#7BCF1AAB'>rapportage</a> aan de opdrachtgever; hoeveel vragen over welke onderwerpen zijn er in een bepaalde periode binnen gekomen, wat was de behandeltijd en wat kunnen we daarvan leren.
 <br/>
-<table style='width: 100%;'><caption>Tabel 3 - Status helpdeskmelding</caption>
+<table id="d4e3139" style='width: 100%;'><caption>Tabel 3 - Status helpdeskmelding</caption>
 <colgroup><col id='col1' style='width: 24.643726103580118%;'>
 <col id='col2' style='width: 75.35627389641988%;'>
 </colgroup>

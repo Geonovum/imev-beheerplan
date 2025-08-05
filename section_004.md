@@ -26,7 +26,7 @@ Het IMEV wordt permanent afgestemd met de volgende standaarden:
 <br/>
 <br/>
 De internationale API standaarden zijn volop in ontwikkeling en zullen effect hebben op de IMEV API specificaties. Ook de ontwikkeling van de standaarden voor het Digitaal Stelsel VTH, waaronder het CIM VTH Flo, zullen op termijn invloed kunnen hebben op de doorontwikkeling van het IMEV. 
-<figure><img src='media/image3.jpeg' alt='samenhang standaarden in de NEN3610 piramide vormgegeven' style='width: 58.88373228893201%;'></img>
+<figure id="d4e1428"><img src='media/image3.jpeg' alt='samenhang standaarden in de NEN3610 piramide vormgegeven' style='width: 58.88373228893201%;'></img>
 <figcaption>IMEV als domeinmodel onder het nationale NEN3610 Basismodel voor geo-informatie</figcaption></figure>
 
 ## Rechtenbeleid {#3F9222D8}
