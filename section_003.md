@@ -39,7 +39,7 @@ Het ontwikkelen van standaarden heeft betrekking op de ontwikkeling van oplossin
 <br/>
 <br/>
 De grondslag voor het beheer en de (door)ontwikkeling van het IMEV:  
-<ul><li>Omgevingswet inwerkingtreden 1 januari 2024;</li>
+<ul><li>Omgevingswet;</li>
 <li>Besluit kwaliteit leefomgeving;</li>
 <li>Besluit activiteiten leefomgeving;</li>
 <li>Omgevingsbesluit;</li>
