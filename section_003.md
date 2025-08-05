@@ -2,27 +2,27 @@
 <b>Governance, visie en financiën zijn de strategische activiteiten voor het beheer van standaarden.</b>
 ## Governance {#3F808C16}
 In opdracht van het Ministerie van Infrastructuur en Waterstaat beheert Geonovum het Informatiemodel Externe Veiligheid. Inhoudelijke en financiële verantwoording legt Geonovum af via kwartaalrapportages. Jaarlijks leggen wij de feedback van de opdrachtgever over ons werk vast door middel van een evaluatie. Door middel van een meerjarige opdracht is de inzet van mensen voor het beheer van het IMEV voor de lange termijn geborgd. 
-Rijkswaterstaat is in opdracht van het ministerie van IenW de beheerder van het Register Externe Veiligheidsrisico’s. Rijkswaterstaat is daardoor de senior user van het informatiemodel. In <a href='#d4e974'>Figuur 2</a> is de organisatiestructuur weergegeven voor het beheer van het IMEV.   
-<table style='width: 100%;'><caption></caption>
+Rijkswaterstaat is in opdracht van het ministerie van IenW de beheerder van het Register Externe Veiligheidsrisico’s. Rijkswaterstaat is daardoor de senior user van het informatiemodel. In <a href='#d4e974'>Figuur 2</a> is de organisatiestructuur weergegeven voor het beheer van het IMEV.
+<br/>
+<table style='width: 100%;'><caption>Tabel 2 - Governance beheeropdracht IMEV</caption> 
 <colgroup><col id='col1' style='width: 39.34312478316179%;'>
 <col id='col2' style='width: 60.656875216838216%;'>
 </colgroup>
-<tbody><tr><td class='left' style='border-top: 0.5pt solid #B1B1B1; border-left: 0.5pt solid #B1B1B1; border-bottom: 0.5pt solid #B1B1B1; border-right: 0.5pt solid #B1B1B1;'><p id='6663781E'><b>Organisatie</b></p></td>
-<td class='left' style='border-top: 0.5pt solid #B1B1B1; border-left: 0.5pt solid #B1B1B1; border-bottom: 0.5pt solid #B1B1B1; border-right: 0.5pt solid #B1B1B1;'><p id='1104136F'><b>Rol</b></p></td>
+<thead><tbody><tr><th class='left'><p id='6663781E'><b>Organisatie</b></p></th>
+<th class='left'><p id='1104136F'><b>Rol</b></p></th>
+</tr></thead>
+<tbody><tr><td class='left'><p id='5A049DA5'>Ministerie van Infrastructuur en Waterstaat, Directoraat-generaal Milieu en Internationaal</p></td>
+<td class='left'><p id='7E20A52B'>Opdrachtgever – Rianne Dobbelsteen</p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #B1B1B1; border-left: 0.5pt solid #B1B1B1; border-bottom: 0.5pt solid #B1B1B1; border-right: 0.5pt solid #B1B1B1;'><p id='5A049DA5'>Ministerie van Infrastructuur en Waterstaat, Directoraat-generaal Milieu en Internationaal</p></td>
-<td class='left' style='border-top: 0.5pt solid #B1B1B1; border-left: 0.5pt solid #B1B1B1; border-bottom: 0.5pt solid #B1B1B1; border-right: 0.5pt solid #B1B1B1;'><p id='7E20A52B'>Opdrachtgever – Rianne Dobbelsteen</p></td>
+<tr><td class='left'><p id='1135A1D0'>Geonovum</p></td>
+<td class='left'><p id='518D61F5'>Opdrachtnemer – Monique van Scherpenzeel </p></td>
 </tr>
-<tr><td class='left' style='border-top: 0.5pt solid #B1B1B1; border-left: 0.5pt solid #B1B1B1; border-bottom: 0.5pt solid #B1B1B1; border-right: 0.5pt solid #B1B1B1;'><p id='1135A1D0'>Geonovum</p></td>
-<td class='left' style='border-top: 0.5pt solid #B1B1B1; border-left: 0.5pt solid #B1B1B1; border-bottom: 0.5pt solid #B1B1B1; border-right: 0.5pt solid #B1B1B1;'><p id='518D61F5'>Opdrachtnemer – Monique van Scherpenzeel </p></td>
-</tr>
-<tr><td class='left' style='border-top: 0.5pt solid #B1B1B1; border-left: 0.5pt solid #B1B1B1; border-bottom: 0.5pt solid #B1B1B1; border-right: 0.5pt solid #B1B1B1;'><p id='1FF5E017'>Rijkswaterstaat (WVL)</p></td>
-<td class='left' style='border-top: 0.5pt solid #B1B1B1; border-left: 0.5pt solid #B1B1B1; border-bottom: 0.5pt solid #B1B1B1; border-right: 0.5pt solid #B1B1B1;'><p id='36A297D1'>Beheerder van het register externe veiligheidsrisico’s als senior user IMEV – Bob Felix</p></td>
+<tr><td class='left'><p id='1FF5E017'>Rijkswaterstaat (WVL)</p></td>
+<td class='left'><p id='36A297D1'>Beheerder van het register externe veiligheidsrisico’s als senior user IMEV – Bob Felix</p></td>
 </tr>
 </tbody>
 </table>
 <br/>
-
 <figure><img src='media/image2.jpeg' alt='Organisatiestructuur IMEV op basis van BOMOS' style='width: 100%;'></img>
 <figcaption>Organisatiestructuur IMEV op basis van <a href='https://logius-standaarden.github.io/BOMOS-Verdieping/' target='_blank'>BOMOS</a></figcaption></figure>
 

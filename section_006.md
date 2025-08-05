@@ -18,37 +18,36 @@ Voor alle helpdesks bij Geonovum zijn generieke afspraken rondom privacy. Wij re
 <br/>
 Dit is voor Geonovum de basis bij afspraken met andere partijen (opdrachtgevers, ketenpartners) bij vastleggen van afspraken in een Service Level Agreement (SLA). De SLA is doorgaans de basis op voor <a href='#7BCF1AAB'>rapportage</a> aan de opdrachtgever; hoeveel vragen over welke onderwerpen zijn er in een bepaalde periode binnen gekomen, wat was de behandeltijd en wat kunnen we daarvan leren.
 <br/>
-<br/>
-<table style='width: 100%;'><caption>Tabel 1 - Status helpdeskmelding</caption>
+<table style='width: 100%;'><caption>Tabel 3 - Status helpdeskmelding</caption>
 <colgroup><col id='col1' style='width: 24.643726103580118%;'>
 <col id='col2' style='width: 75.35627389641988%;'>
 </colgroup>
-<tbody><tr><td class='left'><p id='4AC11851'>Status</p></td>
-<td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000; background-color: #0085C6;'><p id='6CCEC7FF'>Beschrijving activiteiten</p></td>
+<thead><tr><th class='left'><p id='4AC11851'>Status</p></th>
+<th class='left'><p id='6CCEC7FF'>Beschrijving activiteiten</p></td>
+</tr></thead>
+<tbody><tr><td class='left'><p id='22737BEF'>WACHTEN OP SUPPORT</p></td>
+<td class='left'><p id='4366389F'>Als een gebruiker een melding indient krijgt deze de status “wachten op support”. Deze melding nemen we in behandeling; de status wijzig je handmatig.</p></td>
 </tr>
-<tr><td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='22737BEF'>WACHTEN OP SUPPORT</p></td>
-<td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='4366389F'>Als een gebruiker een melding indient krijgt deze de status “wachten op support”. Deze melding nemen we in behandeling; de status wijzig je handmatig.</p></td>
+<tr><td class='left'><p id='11ED0B92'>Uitzoeken</p></td>
+<td class='left'><p id='4DE1A280'>Er moet eerst iets uitgezocht worden voordat een vraag verder behandeld kan worden.</p></td>
 </tr>
-<tr><td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='11ED0B92'>Uitzoeken</p></td>
-<td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='4DE1A280'>Er moet eerst iets uitgezocht worden voordat een vraag verder behandeld kan worden.</p></td>
+<tr><td class='left'><p id='50588DA5'>IN BEHANDELING</p></td>
+<td class='left'><p id='703EE5BB'>De actiehouder van de melding controleert of de melding volledig en helder is. Bij een fout gaat hij/zij in de standaard na of dit inderdaad het geval is. Hij/zij kan informatie opvragen of een onderzoek uitvoeren.</p></td>
 </tr>
-<tr><td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='50588DA5'>IN BEHANDELING</p></td>
-<td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='703EE5BB'>De actiehouder van de melding controleert of de melding volledig en helder is. Bij een fout gaat hij/zij in de standaard na of dit inderdaad het geval is. Hij/zij kan informatie opvragen of een onderzoek uitvoeren.</p></td>
+<tr><td class='left'><p id='7722BB91'>OPGELOST</p></td>
+<td class='left'><p id='0A82AEE7'>De melding is opgelost als de melding/ helpdeskvraag is beantwoord aan de vraagsteller.</p></td>
 </tr>
-<tr><td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='7722BB91'>OPGELOST</p></td>
-<td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='0A82AEE7'>De melding is opgelost als de melding/ helpdeskvraag is beantwoord aan de vraagsteller.</p></td>
+<tr><td class='left'><p id='0E2981F4'>WACHTEN</p></td>
+<td class='left'><p id='696B265C'>Indien de vraag naar de vraagsteller is beantwoord maar nog niet is opgelost, of in het geval aan de vraagsteller is gemeld dat wij nog iets uitzoeken, wordt de status van de melding op ‘wachten’ gezet.   </p></td>
 </tr>
-<tr><td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='0E2981F4'>WACHTEN</p></td>
-<td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='696B265C'>Indien de vraag naar de vraagsteller is beantwoord maar nog niet is opgelost, of in het geval aan de vraagsteller is gemeld dat wij nog iets uitzoeken, wordt de status van de melding op ‘wachten’ gezet.   </p></td>
+<tr><td class='left'><p id='2507A7C7'>GEANNULEERD</p></td>
+<td class='left'><p id='31BC3F62'>Deze status wordt gebruikt bij spamberichten in de helpdesk of bijvoorbeeld bij testberichten.</p></td>
 </tr>
-<tr><td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='2507A7C7'>GEANNULEERD</p></td>
-<td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='31BC3F62'>Deze status wordt gebruikt bij spamberichten in de helpdesk of bijvoorbeeld bij testberichten.</p></td>
+<tr><td class='left'><p id='0E35F13B'>GEESCALEERD</p></td>
+<td class='left'><p id='46742EFD'>Alleen in het geval de escalatieprocedure moet worden ingezet wordt deze status gebruikt.</p></td>
 </tr>
-<tr><td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='0E35F13B'>GEESCALEERD</p></td>
-<td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='46742EFD'>Alleen in het geval de escalatieprocedure moet worden ingezet wordt deze status gebruikt.</p></td>
-</tr>
-<tr><td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='6D30BE23'>GESLOTEN</p></td>
-<td class='left' style='border-top: 0pt none #000000; border-left: 0pt none #000000; border-bottom: 0pt none #000000; border-right: 0pt none #000000;'><p id='01FB39AF'>De melding is niet alleen opgelost maar kan ook worden afgesloten.</p></td>
+<tr><td class='left'><p id='6D30BE23'>GESLOTEN</p></td>
+<td class='left'><p id='01FB39AF'>De melding is niet alleen opgelost maar kan ook worden afgesloten.</p></td>
 </tr>
 </tbody>
 </table>
