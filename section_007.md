@@ -10,6 +10,7 @@ Geonovum is in brede zin zichtbaar en bereikbaar voor <i>alle</i> gebruikers van
 <li><a href='https://github.com/Geonovum' target='_blank'>GitHub</a>.</li>
 </ul>
 <br/>
+
 ## Publicatie {#10A2571C}
 Onder publicatie verstaan we het vrij toegankelijk op internet publiceren van de relevante documentatie van en over het informatiemodel externe veiligheid. Dit betreft onder andere de ontsluiting van de (toelichting op het) informatiemodel en technische implementatiebestanden. Deze documentatie kan voorkomen in presentatieformaten (zoals HTML) als in technische formaten (zoals JSON). Het IMEV-beheerteam draagt zorg voor de ontsluiting van deze documentatie via de verschillende kanalen voor de gebruikers van de standaarden. Als centrale toegang voor iedereen gebruiken we hiervoor de <a href='https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid' target='_blank'>Geonovum website</a>. <a href='https://github.com/Geonovum/imev-werkomgeving' target='_blank'>GitHub</a> is onze publieke IMEV werk- en ontwikkelomgeving. Publicatie van bijvoorbeeld een consultatieversie of vastgestelde versie van producten van het IMEV doen wij via onze <a href='#32D5C642'>publicatieservers</a>. 
 Naast de vigerende standaard zijn ook eerdere versies te beschikbaar en raadpleegbaar. Zo is de historie van de standaarden voor iedereen in te zien. In publicaties verwijzen wij altijd naar de site voor meer informatie.
