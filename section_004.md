@@ -24,7 +24,6 @@ Het IMEV wordt permanent afgestemd met de volgende standaarden:
 <li>Informatiemodel Geluid.</li>
 </ul>
 <br/>
-<br/>
 De internationale API standaarden zijn volop in ontwikkeling en zullen effect hebben op de IMEV API specificaties. Ook de ontwikkeling van de standaarden voor het Digitaal Stelsel VTH, waaronder het CIM VTH Flo, zullen op termijn invloed kunnen hebben op de doorontwikkeling van het IMEV. 
 <figure id="d4e1428"><img src='media/image3.jpeg' alt='samenhang standaarden in de NEN3610 piramide vormgegeven' style='width: 58.88373228893201%;'></img>
 <figcaption>IMEV als domeinmodel onder het nationale NEN3610 Basismodel voor geo-informatie</figcaption></figure>
@@ -34,10 +33,13 @@ Het onderwerp rechtenbeleid uit BOMOS vertaalt zich naar gebruiksvoorwaarden van
 <br/>
 <br/>
 Geonovum hanteert <a href='https://creativecommons.nl/' target='_blank'>Creative Commons</a> om voor de producten van de standaarden aan te geven voor wie en op welke wijze de standaarden beschikbaar zijn:
-<i>Elk nieuw document dat vanaf 1 januari 2018 door Geonovum  wordt  gepubliceerd, is voorzien van  de volgende licentie: </i><a href='https://creativecommons.org/licenses/by-nd/4.0/deed.nl' target='_blank'><i>https://creativecommons.org/licenses/by-nd/4.0/deed.nl</i></a> (kort: CC BY-ND 4.0). In het geval (delen van) standaarden zijn opgenomen in wet- en regelgeving (zoals het geval is bij het IMEV) zijn de gebruiksvoorwaarden van Geonovum niet van toepassing omdat de Nederlandse wetgeving boven creative commons geldt. De grondslag voor het gebruik van het informatiemodel externe veiligheid is opgenomen in artikel 12.2 van de <a href='https://wetten.overheid.nl/BWBR0045528' target='_blank'>Omgevingsregeling</a> van de Omgevingswet. 
+<i>Elk nieuw document dat vanaf 1 januari 2018 door Geonovum  wordt  gepubliceerd, is voorzien van  de volgende licentie: </i><a href='https://creativecommons.org/licenses/by-nd/4.0/deed.nl' target='_blank'><i>https://creativecommons.org/licenses/by-nd/4.0/deed.nl</i></a> (kort: CC BY-ND 4.0). 
 <br/>
 <br/>
-Geonovum zorgt ervoor dat de documentatie van onze standaarden toegankelijk is conform de WCAG richtlijnen. Hiervoor gebruiken wij html-formaat conform ReSpec. De Nederlandse set van ReSpec afspraken wordt door Logius beheerd. 
+In het geval (delen van) standaarden zijn opgenomen in wet- en regelgeving (zoals het geval is bij het IMEV) zijn de gebruiksvoorwaarden van Geonovum niet van toepassing omdat de Nederlandse wetgeving boven creative commons geldt. De grondslag voor het gebruik van het informatiemodel externe veiligheid is opgenomen in artikel 12.2 van de <a href='https://wetten.overheid.nl/BWBR0045528' target='_blank'>Omgevingsregeling</a> van de Omgevingswet. 
+<br/>
+<br/>
+Geonovum zorgt ervoor dat de documentatie van onze standaarden toegankelijk is conform de WCAG richtlijnen. Hiervoor gebruiken wij html-formaat conform ReSpec (zoals met dit document). De Nederlandse set van ReSpec afspraken wordt door Logius beheerd. 
 
 ## Adoptie en erkenning {#7C0F229A}
 Het gebruik van de standaarden is niet vanzelfsprekend. Voor de adoptie en erkenning van het IMEV is het van belang dat de standaarden goed aansluiten bij de werkpraktijk. De samenwerking met gebruikers- en expertgroepen van het IMEV en het REV is daarom cruciaal. Om signalen vanuit de dagelijkse praktijk vroeg op te kunnen vangen, neemt Geonovum ook deel aan bij de bronhoudersoverleggen. Via de REV-nieuwsbrief houden wij het netwerk op de hoogte van ontwikkelingen en kunnen we antwoorden op veel gestelde vragen proactief delen. 
@@ -53,7 +55,6 @@ Geonovum maakt standaarden, informatiemodellen en andere afspraken die <u>geodat
 <li><b>Interoperable</b><b> (</b><b>interoperabel</b><b>)</b> De gegevens moeten meestal worden geïntegreerd met andere gegevens. Bovendien moeten de gegevens samenwerken met applicaties of workflows voor analyse, opslag en verwerking.</li>
 <li><b>Reusable</b><b> (herbruikbaar)</b> Het uiteindelijke doel van FAIR is het hergebruik van data te optimaliseren. Om dit te bereiken moeten metadata en data goed worden beschreven, zodat ze in verschillende situaties kunnen worden gerepliceerd en/of gecombineerd.</li>
 </ul>
-<br/>
 <br/>
 Bij het beheer van het REV is datakwaliteit een belangrijk speerpunt. Het IMEV is de basis voor de bestaande datastructuur in het REV. Het IMEV-beheerteam is betrokken, wordt geconsulteerd en geeft advies over de (on)mogelijkheden van het gebruik van IMEV voor datakwaliteit. Hogere eisen aan datakwaliteit kunnen aanleiding zijn voor doorontwikkeling van het IMEV. Het inzetten van een REV validator (zie paragraaf <a href='#6D48D65F'>validatie en certificatie</a>) kan ervoor zorgen dat gebruikers van standaarden de correctheid van de implementaties kunnen testen.
 <br/>

@@ -38,10 +38,10 @@ Het beheer van onze standaarden geven wij gestalte en voeren wij uit in de conte
 
 ## Leeswijzer {#6981FF72}
 In dit beheerplan geven wij per BOMOS hoofdactiviteit welke activiteiten we uitvoeren voor het beheer de doorontwikkeling van het Informatiemodel Externe Veiligheid. Achtereenvolgens komen in dit beheerplan aan de orde: 
-<ul><li><a href='#491B6E78'>Hoofdstuk 2</a> - strategie, </li>
-<li><a href='#5AE88FF8'>Hoofdstuk 3</a> - tactiek, </li>
-<li><a href='#083B8D00'>Hoofdstuk 4</a> - operationeel, </li>
-<li><a href='#790C686D'>Hoofdstuk 5</a> - implementatieondersteuning, </li>
-<li><a href='#485DFB58'>Hoofdstuk 6</a> – communicatie, </li>
-<li><a href='#56B1B14E'>Hoofdstuk 7</a>– IMEV producten. </li>
+<ul><li><a href='#491B6E78'>Hoofdstuk 2</a> - strategie,</li>
+<li><a href='#5AE88FF8'>Hoofdstuk 3</a> - tactiek,</li>
+<li><a href='#083B8D00'>Hoofdstuk 4</a> - operationeel,</li>
+<li><a href='#790C686D'>Hoofdstuk 5</a> - implementatieondersteuning,</li>
+<li><a href='#485DFB58'>Hoofdstuk 6</a> – communicatie,</li>
+<li><a href='#56B1B14E'>Hoofdstuk 7</a> – IMEV producten.</li>
 </ul>

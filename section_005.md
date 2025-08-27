@@ -10,6 +10,7 @@ Identificatie van nieuwe ideeën voor bijvoorbeeld een nieuwe specificatie, werk
 <br/>
 Het beheerteam beheert de lijst van wensen en eisen voor het IMEV in de publieke IMEV werkomgeving op <a href='https://github.com/Geonovum/imev-werkomgeving/issues' target='_blank'>GitHub</a> en initieert in overleg met de opdrachtgever een wijzigingsproces van de standaard. Het wijzigingsproces volgt de afspraken zoals deze zijn vastgelegd in het <a href='https://docs.geostandaarden.nl/imev/IMEV-wijzigingsprotocol/' target='_blank'>wijzigingsprotocol</a>. 
 In het wijzigingsprotocol staan de sturende principes achter het wijzigingsproces voor het IMEV: de manier waarop wijzigingen in de betreffende standaard plaatsvinden. Met het protocol wordt elke wijziging van de standaard een voorspelbaar proces voor de ketenpartners. De IMEV Adviesgroep heeft een belangrijke rol in het wijzigingsproces: zij stuurt op verbinding en samenhang, controleert het wijzigingsproces en voorziet het wijzigingsvoorstel van advies voor het al dan niet doorvoeren van de wijzigingen en opleveren van een nieuwe versie van IMEV. De opdrachtgever besluit of de wijzigingen worden doorgevoerd op het IMEV.
+<br/>
 In het protocol zijn basisbegrippen en uitgangspunten uiteengezet voor het wijzigingsproces, bijvoorbeeld wat onder nieuwe en volgende versies verstaan wordt, en wanneer deze nieuwe versie(s) verwacht mogen worden. De daadwerkelijke planning van een nieuwe versie is op hoofdlijnen uitgewerkt in de jaarplanning van de standaard. De jaarplanning is een uitwerking van de (nog te ontwikkelen) roadmap van de betreffende standaard waarin voor de komende jaren de verdere ontwikkeling en de uitfasering en implementatieondersteuning van de (verschillende versies van de) standaard is opgenomen. Met behulp van een wijzigingsprotocol voor de standaard geeft Geonovum:
 <ul><li>inzicht in het behandel- en besluitproces dat ten grondslag ligt aan het versiebeheer;</li>
 <li>inzicht in de aangeboden wijzigingsvoorstellen;</li>
@@ -78,7 +79,6 @@ De volgende tooling zetten wij voor de ontwikkeling en het beheer van de product
 <li><b>Visual Studio Code: </b>Editor voor de markdown bestanden. Er blijkt dat verschillend parallel gebruik van verschillende editors kunnen leiden tot verschillen in uitkomst in ReSpec. ReSpec vereist GitHub Flavoured Markdown.</li>
 </ul>
 <br/>
-
 ## Documentatie {#79A4FC48}
 De volgende type documentatie worden door Geonovum gebruikt bij de ontwikkeling en het beheer van standaarden. 
 <ul><li><b>Norm: </b>een norm is bij een officieel standaardisatie instituut ondergebracht en bevat bindende afspraken. Naast het gebruik van normen is NEN 3610 de enige norm waar Geonovum een inhoudelijke verantwoordelijkheid heeft. Het formele beheer en beslissingen worden genomen in de NEN normcommissie 351 240 waar Geonovum de voorzitter van is. NEN is een normalisatie instituut. NEN is net als Geonovum een stichting en kan daarmee geen juridische status toekennen aan normen. Het  verwijst vooral naar de status die de NEN heeft vanuit de overheid en in het werken vanuit lidstaten.  </li>

@@ -3,13 +3,13 @@ var documentConfig =
   title: "Beheerplan Informatiemodel Externe Veiligheid",
   shortName: "beheerplan",
   pubDomain: "imev",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "bd",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/imev/beheerplan/"
   ],
-  publishDate: "2025-07-31",
+  publishDate: "2025-08-27",
   publishVersion: "1.1.0",
   thisVersion: [
     "https://geonovum.github.io/imev-beheerplan/"

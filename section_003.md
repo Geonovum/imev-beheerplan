@@ -18,7 +18,7 @@ Rijkswaterstaat is in opdracht van het ministerie van IenW de beheerder van het 
 <td class='left'><p id='518D61F5'>Opdrachtnemer – Monique van Scherpenzeel </p></td>
 </tr>
 <tr><td class='left'><p id='1FF5E017'>Rijkswaterstaat (WVL)</p></td>
-<td class='left'><p id='36A297D1'>Beheerder van het register externe veiligheidsrisico’s als senior user IMEV – Bob Felix</p></td>
+<td class='left'><p id='36A297D1'>Beheerder Register Externe Veiligheidsrisico’s en senior user van het IMEV – Bob Felix</p></td>
 </tr>
 </tbody>
 </table>

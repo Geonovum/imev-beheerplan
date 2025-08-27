@@ -17,10 +17,9 @@ Dit document wordt bijgewerkt op basis van ontwikkelingen rond het beheer van he
 <td class='left'><p id='0432008F'>Oplevering</p></td>
 </tr>
 <tr><td class='left'><p id='6A555544'>1.1</p></td>
-<td class='left'><p id='66B4F1D6'>Juli 2025</p></td>
-<td class='left'><p id='46AE7A4E'>Werkversie</p></td>
-<td class='left'><p id='17D74612'>- Actualisatie beheerplan.</p><p id='2E96DAD4'>- Omzetting beheerplan naar publiek document voor ontsluiting via de Geonovum website.   <br/>
-- Naast actualisatie zijn de wijzigingen: Paragraaf <a href='#3F808C16'>Governance</a> toelichting TRIP en Adviesgroep toegevoegd; Paragraaf <a href='#70DDEAA4'>Visie</a> is de koppeling met het DSO toegevoegd; Paragraaf <a href='#30830BA9'>Architectuur</a> zijn de API standaarden, NL-SBB, IMOW en IM Geluid toegevoegd; Paragraaf <a href='#741CFF7D'>Initiatie</a> is de rol van de Adviesgroep toegelicht. </p></td>
+<td class='left'><p id='66B4F1D6'>27 augustus 2025</p></td>
+<td class='left'><p id='46AE7A4E'>Definitief</p></td>
+<td class='left'><p id='17D74612'>- Actualisatie beheerplan.</p><p id='2E96DAD4'>- Omzetting beheerplan naar publiek document voor ontsluiting via de Geonovum website.<br/>
 </tr>
 </tbody>
 </table>
