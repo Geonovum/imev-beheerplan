@@ -79,6 +79,7 @@ De volgende tooling zetten wij voor de ontwikkeling en het beheer van de product
 <li><b>Visual Studio Code: </b>Editor voor de markdown bestanden. Er blijkt dat verschillend parallel gebruik van verschillende editors kunnen leiden tot verschillen in uitkomst in ReSpec. ReSpec vereist GitHub Flavoured Markdown.</li>
 </ul>
 <br/>
+
 ## Documentatie {#79A4FC48}
 De volgende type documentatie worden door Geonovum gebruikt bij de ontwikkeling en het beheer van standaarden. 
 <ul><li><b>Norm: </b>een norm is bij een officieel standaardisatie instituut ondergebracht en bevat bindende afspraken. Naast het gebruik van normen is NEN 3610 de enige norm waar Geonovum een inhoudelijke verantwoordelijkheid heeft. Het formele beheer en beslissingen worden genomen in de NEN normcommissie 351 240 waar Geonovum de voorzitter van is. NEN is een normalisatie instituut. NEN is net als Geonovum een stichting en kan daarmee geen juridische status toekennen aan normen. Het  verwijst vooral naar de status die de NEN heeft vanuit de overheid en in het werken vanuit lidstaten.  </li>
