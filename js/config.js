@@ -3,7 +3,7 @@ var documentConfig =
   title: "Beheerplan Informatiemodel Externe Veiligheid",
   shortName: "beheerplan",
   pubDomain: "imev",
-  specStatus: "def",
+  specStatus: "wv",
   specType: "bd",
   license: "cc-by-nd",
   latestVersion: [
