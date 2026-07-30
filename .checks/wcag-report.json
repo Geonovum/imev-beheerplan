@@ -4,7 +4,7 @@
     "id": "color-contrast",
     "impact": "serious",
     "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
-    "helpUrl": "https://dequeuniversity.com/rules/axe/4.11/color-contrast?application=webdriverjs",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=webdriverjs",
     "nodes": [
       {
         "target": [
@@ -12,6 +12,22 @@
         ],
         "html": "<div class=\"sidelabel\">Geonovum Beheerdocumentatie - Werkversie</div>",
         "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 3.99 (foreground color: #ffffff, background color: #ff0000, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1"
+      }
+    ]
+  },
+  {
+    "url": "http://localhost:8080/snapshot.html",
+    "id": "list",
+    "impact": "serious",
+    "description": "Ensure that lists are structured correctly",
+    "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/list?application=webdriverjs",
+    "nodes": [
+      {
+        "target": [
+          "#producten-imev-56b1b14e > ul"
+        ],
+        "html": "<ul>",
+        "failureSummary": "Fix all of the following:\n  List element has direct children that are not allowed: ul"
       }
     ]
   }
