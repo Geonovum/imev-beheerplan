@@ -9,8 +9,8 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/imev/beheerplan/"
   ],
-  publishDate: "2025-08-27",
-  publishVersion: "1.1.0",
+  publishDate: "2026-07-30",
+  publishVersion: "1.2.0",
 
   github: "https://github.com/geonovum/imev-beheerplan/",
   issueBase: "https://github.com/geonovum/imev-beheerplan/issues/",
