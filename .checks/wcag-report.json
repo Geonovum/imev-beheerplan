@@ -24,7 +24,7 @@
     "nodes": [
       {
         "target": [
-          "#producten-imev-56b1b14e > ul"
+          "#producten-imev > ul"
         ],
         "html": "<ul>",
         "failureSummary": "Fix all of the following:\n  List element has direct children that are not allowed: ul"
