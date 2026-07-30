@@ -28,6 +28,13 @@
         ],
         "html": "<ul>",
         "failureSummary": "Fix all of the following:\n  List element has direct children that are not allowed: ul"
+      },
+      {
+        "target": [
+          "ul > ul"
+        ],
+        "html": "<ul>",
+        "failureSummary": "Fix all of the following:\n  List element has direct children that are not allowed: #text, b, a"
       }
     ]
   }
