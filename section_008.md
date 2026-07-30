@@ -1,4 +1,4 @@
-# Producten IMEV{#56B1B14E}
+# Producten IMEV {#56B1B14E}
 Het Informatiemodel Externe Veiligheid (IMEV) bevat op grond van de wet- en regelgeving afspraken over de digitale structuur waarin overheden gegevens vastleggen over de opslag, het transport en het gebruik van gevaarlijke stoffen. Bevoegde gezagen leveren deze gegeven conform het IMEV aan bij het Register Externe Veiligheidsrisico's. Op kaarten via bijvoorbeeld de Atlas Leefomgeving is vervolgens te zien waar externe veiligheidsrisico’s van toepassing zijn. 
 <br/>
 <br/>
