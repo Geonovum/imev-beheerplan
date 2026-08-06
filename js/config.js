@@ -1,7 +1,7 @@
 var documentConfig =
 {
   title: "Beheerplan Informatiemodel Externe Veiligheid",
-  shortName: "beheerplan",
+  shortName: " IMEV beheerplan",
   pubDomain: "imev",
   specStatus: "wv",
   specType: "bd",
@@ -11,7 +11,15 @@ var documentConfig =
   ],
   publishDate: "2026-07-30",
   publishVersion: "1.1.1",
-
+  thisVersion: [
+    "https://docs.geostandaarden.nl/imev/def-bd-beheerplan-20260730/"
+  ],
+  previousPublishDate: "2025-08-27",
+  previousPublishVersion: "1.1.0",
+  prevVersion: [
+    "https://docs.geostandaarden.nl/imev/def-bd-beheerplan-20250827//"
+  ],
+  previousMaturity: "def",
   github: "https://github.com/geonovum/imev-beheerplan/",
   issueBase: "https://github.com/geonovum/imev-beheerplan/issues/",
   edDraftURI: "https://geonovum.github.io/imev-beheerplan/",
@@ -25,7 +33,7 @@ var documentConfig =
   ],
   editors: [
     {
-      name: "Monique van Scherpenzeel",
+      name: "Jan Cas Smit",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/geo-standaarden/informatiemodel-externe-veiligheid-imev/"
     }
