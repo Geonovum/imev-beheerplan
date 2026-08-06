@@ -17,7 +17,7 @@ var documentConfig =
   previousPublishDate: "2025-08-27",
   previousPublishVersion: "1.1.0",
   prevVersion: [
-    "https://docs.geostandaarden.nl/imev/def-bd-beheerplan-20250827//"
+    "https://docs.geostandaarden.nl/imev/def-bd-beheerplan-20250827/"
   ],
   previousMaturity: "def",
   github: "https://github.com/geonovum/imev-beheerplan/",
