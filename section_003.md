@@ -5,8 +5,8 @@ In opdracht van het Ministerie van Infrastructuur en Waterstaat beheert Geonovum
 Rijkswaterstaat is in opdracht van het ministerie van IenW de beheerder van het Register Externe Veiligheidsrisico’s. Rijkswaterstaat is daardoor de senior user van het informatiemodel. In <a href='#d4e974'>Figuur 2</a> is de organisatiestructuur weergegeven voor het beheer van het IMEV. In <a href='#tGBMVS'>Tabel 2</a> is de governance van de IMEV beheeropdracht samengevat. 
 <br/>
 <table id="tGBMVS" style='width: 100%;'><caption>Tabel 2 - Governance beheeropdracht IMEV</caption> 
-<colgroup><col id='col1' style='width: 39.34312478316179%;'>
-<col id='col2' style='width: 60.656875216838216%;'>
+<colgroup><col id='col1-3' style='width: 39.34312478316179%;'>
+<col id='col2-3' style='width: 60.656875216838216%;'>
 </colgroup>
 <thead><tbody><tr><th class='left'><p id='6663781E'><b>Organisatie</b></p></th>
 <th class='left'><p id='1104136F'><b>Rol</b></p></th>
