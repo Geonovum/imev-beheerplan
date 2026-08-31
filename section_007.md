@@ -1,4 +1,4 @@
-# Communicatie x{#485DFB58}
+# Communicatie {#485DFB58}
 <b>Publicatie, promotie en escalatie- en klachtenafhandeling zijn de communicatie activiteiten voor het beheer van de standaarden.</b>
 <br/>
 <br/>
