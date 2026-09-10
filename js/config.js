@@ -1,4 +1,4 @@
-var documentConfig =
+var respecConfig =
 {
   title: "Beheerplan Informatiemodel Externe Veiligheid",
   shortName: "beheerplan",
