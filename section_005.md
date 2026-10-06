@@ -39,7 +39,7 @@ De issues worden van labels voorzien die ook in het wijzigingsvoorstel terugkome
 Sinds ingebruikname van het REV op 1 januari 2023 en het inwerkingtreden van de Omgevingswet is het IMEV in gebruik voor het aanleveren van dat aan het REV. Het IMEV bevindt zich in de fase ‘volwaardige toepassing’ (zie <a href='#d4e2263'>Figuur 5</a>). 
 <br/>
 <br/>
-<figure><img src='media/image5.png' alt='Levensfases van een standaard volgens BOMOS' style='width: 100%;'></img>
+<figure><img src='media/image5.png' id='d4e2263' alt='Levensfases van een standaard volgens BOMOS' style='width: 100%;'></img>
 <figcaption>Levensfases van een standaard volgens <a href='https://gitdocumentatie.logius.nl/publicatie/bomos/fundament/' target='_blank'>BOMOS</a></figcaption></figure>
 
 <br/>
@@ -47,7 +47,7 @@ Sinds ingebruikname van het REV op 1 januari 2023 en het inwerkingtreden van de 
 Afspraken over de doorontwikkeling van het informatiemodel zijn vastgelegd in het <a href='https://docs.geostandaarden.nl/imev/imev-wijzigingsprotocol/' target='_blank'>IMEV wijzigingsprotocol</a>. Tijdens het wijzigingsproces worden de fasen Inhoud, Toetsing, Besluitvorming en Implementatie doorlopen (zie <a href='#d4e2366'>Figuur 6</a>). De type wijzing, van foutherstel tot het toevoegen van nieuwe milieubelastende activiteiten, heeft invloed op de zwaarte van het wijzigingsproces. Het releasebeleid, waaronder versiebeheer en consultaties, is ook vastgelegd in het wijzigingsprotocol. De hulpmiddelen die het IMEV-beheerteam inzet, zijn benoemd in paragraaf <a href='#32D5C642'>uitvoering</a>. 
 <br/>
 <br/>
-<figure><img src='media/image6.png' alt='Fasen wijzigingsproces IMEV' style='width: 41.731281101724335%;'></img>
+<figure><img src='media/image6.png' id='d4e2366' alt='Fasen wijzigingsproces IMEV' style='width: 41.731281101724335%;'></img>
 <figcaption>Fasen wijzigingsproces</figcaption></figure>
 
 ## Uitvoering {#32D5C642}

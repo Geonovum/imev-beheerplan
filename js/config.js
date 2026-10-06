@@ -1,25 +1,25 @@
-var documentConfig =
+var respecConfig =
 {
   title: "Beheerplan Informatiemodel Externe Veiligheid",
-  shortName: "IMEV beheerplan",
+  shortName: "beheerplan",
   pubDomain: "imev",
-  specStatus: "wv",
+  specStatus: "def",
   specType: "bd",
   license: "cc-by-nd",
-  latestVersion: [
-    "https://docs.geostandaarden.nl/imev/beheerplan/"
-  ],
+  // latestVersion: [
+  //   "https://docs.geostandaarden.nl/imev/beheerplan/"
+  // ],
   publishDate: "2026-10-05",
   publishVersion: "1.1.1",
-  thisVersion: [
-    "https://docs.geostandaarden.nl/imev/def-bd-beheerplan-20261005/"
-  ],
+  // thisVersion: [
+  //   "https://docs.geostandaarden.nl/imev/def-bd-beheerplan-20261005/"
+  // ],
   previousPublishDate: "2025-08-27",
   previousPublishVersion: "1.1.0",
-  prevVersion: [
-    "https://docs.geostandaarden.nl/imev/def-bd-beheerplan-20250827/"
-  ],
   previousMaturity: "def",
+  // prevVersion: [
+  //   "https://docs.geostandaarden.nl/imev/def-bd-beheerplan-20250827/"
+  // ],
   github: "https://github.com/geonovum/imev-beheerplan/",
   issueBase: "https://github.com/geonovum/imev-beheerplan/issues/",
   edDraftURI: "https://geonovum.github.io/imev-beheerplan/",
