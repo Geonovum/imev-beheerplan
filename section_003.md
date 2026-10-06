@@ -12,13 +12,13 @@ Rijkswaterstaat is in opdracht van het ministerie van IenW de beheerder van het 
 <th class='left'><p id='1104136F'><b>Rol</b></p></th>
 </tr></thead>
 <tbody><tr><td class='left'><p id='5A049DA5'>Ministerie van Infrastructuur en Waterstaat, Directoraat-generaal Milieu en Internationaal</p></td>
-<td class='left'><p id='7E20A52B'>Opdrachtgever – Rianne Dobbelsteen</p></td>
+<td class='left'><p id='7E20A52B'>Opdrachtgever</p></td>
 </tr>
 <tr><td class='left'><p id='1135A1D0'>Geonovum</p></td>
-<td class='left'><p id='518D61F5'>Opdrachtnemer – Monique van Scherpenzeel </p></td>
+<td class='left'><p id='518D61F5'>Opdrachtnemer</p></td>
 </tr>
 <tr><td class='left'><p id='1FF5E017'>Rijkswaterstaat (WVL)</p></td>
-<td class='left'><p id='36A297D1'>Beheerder Register Externe Veiligheidsrisico’s en senior user van het IMEV – Bob Felix</p></td>
+<td class='left'><p id='36A297D1'>Beheerder Register Externe Veiligheidsrisico’s en senior user van het IMEV</p></td>
 </tr>
 </tbody>
 </table>

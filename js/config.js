@@ -9,10 +9,10 @@ var respecConfig =
   // latestVersion: [
   //   "https://docs.geostandaarden.nl/imev/beheerplan/"
   // ],
-  publishDate: "2026-07-30",
+  publishDate: "2026-10-05",
   publishVersion: "1.1.1",
   // thisVersion: [
-  //   "https://docs.geostandaarden.nl/imev/def-bd-beheerplan-20260730/"
+  //   "https://docs.geostandaarden.nl/imev/def-bd-beheerplan-20261005/"
   // ],
   previousPublishDate: "2025-08-27",
   previousPublishVersion: "1.1.0",
